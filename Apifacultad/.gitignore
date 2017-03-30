@@ -1,0 +1,14 @@
+*.project
+*.class
+*.jsdtscope
+*log4j.properties
+*.eclipse.jdt.core.prefs
+*.eclipse.m2e.core.prefs
+*.eclipse.ltk.core.refactoring.prefs
+*.eclipse.wst.common.component
+*.eclipse.wst.common.project.facet.core.xml
+*.eclipse.wst.jsdt.ui.superType.container
+*.eclipse.wst.validation.prefs
+*.eclipse.wst.jsdt.ui.superType.name
+*.eclipse.wst.xsl.core.prefs
+/target/
